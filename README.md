@@ -11,3 +11,6 @@ Este repositorio serve para aplicarmos os conheciementos atribuidos as aulas de 
 
 
 3.[Power Point](https://github.com/wesleykainan/Modelo-Office/blob/main/ProjetoIntegrador2.pptx)
+
+
+4.[Documento Word](https://github.com/wesleykainan/Modelo-Office/blob/main/ProjetoIntegrador2.docx)
