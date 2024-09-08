@@ -8,3 +8,6 @@ Este repositorio serve para aplicarmos os conheciementos atribuidos as aulas de 
 
 
 2.[Gráfico](https://github.com/wesleykainan/Modelo-Office/blob/main/ProjetoIntegrador2.png)
+
+
+3.[Power Point](https://github.com/wesleykainan/Modelo-Office/blob/main/ProjetoIntegrador2.pptx)
